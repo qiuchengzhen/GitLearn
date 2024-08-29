@@ -1,0 +1,14 @@
+D:\SelfLearn\GitForLearnLIUtieMeng\bin\Debug\net8.0\GitForLearnLIUtieMeng.exe
+D:\SelfLearn\GitForLearnLIUtieMeng\bin\Debug\net8.0\GitForLearnLIUtieMeng.deps.json
+D:\SelfLearn\GitForLearnLIUtieMeng\bin\Debug\net8.0\GitForLearnLIUtieMeng.runtimeconfig.json
+D:\SelfLearn\GitForLearnLIUtieMeng\bin\Debug\net8.0\GitForLearnLIUtieMeng.dll
+D:\SelfLearn\GitForLearnLIUtieMeng\bin\Debug\net8.0\GitForLearnLIUtieMeng.pdb
+D:\SelfLearn\GitForLearnLIUtieMeng\obj\Debug\net8.0\GitForLearnLIUtieMeng.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearn\GitForLearnLIUtieMeng\obj\Debug\net8.0\GitForLearnLIUtieMeng.AssemblyInfoInputs.cache
+D:\SelfLearn\GitForLearnLIUtieMeng\obj\Debug\net8.0\GitForLearnLIUtieMeng.AssemblyInfo.cs
+D:\SelfLearn\GitForLearnLIUtieMeng\obj\Debug\net8.0\GitForLearnLIUtieMeng.csproj.CoreCompileInputs.cache
+D:\SelfLearn\GitForLearnLIUtieMeng\obj\Debug\net8.0\GitForLearnLIUtieMeng.dll
+D:\SelfLearn\GitForLearnLIUtieMeng\obj\Debug\net8.0\refint\GitForLearnLIUtieMeng.dll
+D:\SelfLearn\GitForLearnLIUtieMeng\obj\Debug\net8.0\GitForLearnLIUtieMeng.pdb
+D:\SelfLearn\GitForLearnLIUtieMeng\obj\Debug\net8.0\GitForLearnLIUtieMeng.genruntimeconfig.cache
+D:\SelfLearn\GitForLearnLIUtieMeng\obj\Debug\net8.0\ref\GitForLearnLIUtieMeng.dll
